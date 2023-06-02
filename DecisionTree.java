@@ -1,7 +1,7 @@
 import javax.swing.*;
 class DecisionTreeTest
 {
-	public static void main(String entrada[])
+	public static void main(String[]args)
 	{
 		int number;
 		char operation=0;
